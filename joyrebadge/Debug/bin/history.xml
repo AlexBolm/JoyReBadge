@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=joyrebadge.map -O0 --gc-sections -LC:\Users\Alex\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\joyrebadge -TC:\Users\Alex\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\joyrebadge/link.ld -g">
+      <target file="joyrebadge.elf" lastModified="169635d75fe">
+         <source file="..\obj\stm32f10x_cec.o" lastModified="169635d705a"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="169635d739d"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="169635d6c64"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="169635d68c7"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="169635d6efc"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="169635d71ff"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="169635d6f7a"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="169635d6a9d"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="169635d67f9"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="169635d70e7"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="169635d697c"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="169635d714c"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="169635d72ec"/>
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="169635d6a04"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="169635d6bf8"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="169635d6a10"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="169635d7270"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="169635d7349"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="169635d6e7c"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="169635d6b5d"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="169635d6e21"/>
+         <source file="..\obj\misc.o" lastModified="169635d71a5"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="169635d6ff4"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="169635d6da1"/>
+         <source file="..\obj\main.o" lastModified="169635d6d3c"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="169635d691d"/>
+      </target>
+   </processor>
+</history>
